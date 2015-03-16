@@ -2,7 +2,7 @@ package algorithms.warmup;
 
 import java.util.Scanner;
 
-public class maxXor {
+public class MaxXor {
 	public static int getMaxXor(int left, int right) {
 		int maxXor = 0;
 		if(left < right) {
